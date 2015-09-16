@@ -1,7 +1,16 @@
-      .high
-      .high {
+      #high0 {
+         background-color: red;
+         color: white;
+      }
+      #high {
          background-color: red;
          font-size: 24pt;
+         color: white;
+      }
+      #high1 {
+         background-color: red;
+         font-size: 24pt;
+         color: white;
       }
       .medium {
          background-color: orange;
