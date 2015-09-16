@@ -1,29 +1,17 @@
-<h1>To Do List</h1>
 <html>
    <head>
-      <style>
-      .red {
-         background-color: red;
-         font-size: 24pt;
-      }
-      .orange {
-         background-color: orange;
-         font-size: 20pt;
-      }
-      .gray {
-         background-color: gray;
-         font-size: 16pt;
-      }
-      </style>
+      <title>JimBob's To Do List</title>
+      <link rel=stylesheet href=todo.css type=text/css />
    </head>
+   <h1>My Things to Do</h1>
    <body>
         <ul>
         <li class="red"><td>Take out the trash</td></tr>
-        <tr class="red"><td><strike>Do my homework</strike></td></tr>
-        <tr class="orange"><td>Wash my clothes</td></tr>
-        <tr class="orange"><td><strike>Study</strike></td></tr>
-        <tr class="gray"><td>Find a girlfriend</td></tr>
-        <tr class="gray"><td>Play video games</td></tr>
-        </table>
+        <li class="red"><td><strike>Do my homework</strike></td></tr>
+        <li class="orange"><td>Wash my clothes</td></tr>
+        <li class="orange"><td><strike>Study</strike></td></tr>
+        <li class="gray"><td>Find a girlfriend</td></tr>
+        <li class="gray"><td>Play video games</td></tr>
+        </ul>
    </body>
 </html>
