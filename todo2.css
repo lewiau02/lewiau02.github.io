@@ -1,25 +1,25 @@
-      #high {
+      .high {
          background-color: red;
          font-size: 24pt;
          color: white;
       }
-       #medium {
+       .medium {
          background-color: orange;
          font-size: 20pt;
          color: brown;
        }
-       #low {
+       .low {
          background-color: gray;
          font-size: 16pt;
          color: black;
        }
-       #done {
+       .done {
          background-color: black;
          font-size: 12pt;
          color: cyan;
          text-decoration: line-through;
        }
-       #done1 {
+       h4 {
          background-color: black;
          font-size: 12pt;
          color: cyan; 
