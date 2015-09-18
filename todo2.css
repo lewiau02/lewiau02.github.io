@@ -17,6 +17,7 @@
          background-color: black;
          font-size: 12pt;
          color: cyan;
+         text-decoration: line-through;
        }
        h4 {
          background-color: black;
