@@ -17,7 +17,6 @@
          background-color: black;
          font-size: 12pt;
          color: cyan;
-         text-decoration: line-through;
        }
        h4 {
          background-color: black;
@@ -27,4 +26,12 @@
        }
        section{
              overflow: auto;
+             margin: 10 10 10;
+             border" 2px dotted rgb (0,0,0);
+       }
+       #li{
+         background-color: black;
+         font-size: 12pt;
+         color: cyan;
+         text-decoration: line-through;
        }
