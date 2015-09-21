@@ -33,3 +33,7 @@
              border:; 2px dotted rgb (0,0,0);
              float: left;
        }
+       footer{
+             clear: left;
+       }
+       
