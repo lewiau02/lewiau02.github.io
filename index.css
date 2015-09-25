@@ -4,6 +4,7 @@ nav {
     height: 100px;
     width: 100%;
      margin-top: 20px;
+     font-size: 30pt;
     }
     #left {
     float: left;
@@ -22,6 +23,7 @@ nav {
     width: 100%;
     clear: both;
     background-color: red;
+    font-size: 30pt;
     }
     header {
              position: fixed;
