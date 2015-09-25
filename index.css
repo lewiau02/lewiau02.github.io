@@ -4,13 +4,13 @@ nav {
     height: 100px;
     width: 100%;
     }
-    section #left {
+    #left {
     float: left;
     width: 50%;
     height: 400px;
     background-color: yellow;
     }
-    section #right {
+    #right {
     float: left;
     width: 50%;
     height: 400px;
