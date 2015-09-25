@@ -1,0 +1,24 @@
+nav {
+    postion: fixed;
+    background-color: red;
+    height: 20px;
+    width: 100%;
+    }
+    section #left {
+    float: left;
+    width: 50%;
+    height: 400px;
+    background-color: yellow;
+    }
+    section #right {
+    float: left;
+    width: 50%;
+    height: 400px;
+    background-color: blue;
+    }
+    footer {
+    height: 20px;
+    width: 100%;
+    clear: both;
+    }
+    
