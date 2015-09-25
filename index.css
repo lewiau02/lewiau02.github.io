@@ -26,6 +26,7 @@ nav {
     header {
              position: fixed;
              background-color: blue;
+             font-size: 28pt;
              top: 0px;
              left: 0px;
              width: 100%;
