@@ -3,6 +3,7 @@ nav {
     background-color: red;
     height: 100px;
     width: 100%;
+    top: 20px;
     }
     #left {
     float: left;
