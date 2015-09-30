@@ -1,0 +1,38 @@
+.high {
+         background-color: red;
+         font-size: 24pt;
+         color: white;
+      }
+       .medium {
+         background-color: orange;
+         font-size: 20pt;
+         color: brown;
+       }
+       .low {
+         background-color: gray;
+         font-size: 16pt;
+         color: black;
+       }
+       .done {
+         background-color: black;
+         font-size: 12pt;
+         color: cyan;
+         text-decoration: line-through;
+       }
+       h4 {
+         background-color: black;
+         font-size: 12pt;
+         color: cyan; 
+         text-align: center;
+       }
+       section{
+             height: 250px;
+             width: 300px;
+             overflow: auto;
+             margin: 10 10 10 10;
+             border:; 2px dotted rgb (0,0,0);
+             float: left;
+       }
+       footer{
+             clear: left;
+       }
