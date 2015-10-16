@@ -3,6 +3,7 @@ text-align: center;
 }
 body {
 height: 250px;
-width: 300px;
+width: 50%;
 background-color: blue;
+text-align: center;
 }
