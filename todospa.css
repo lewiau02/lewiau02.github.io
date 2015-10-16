@@ -1,10 +1,14 @@
 h1 {
 text-align: center;
 }
-body {
-height: 250px;
+p {
+height: 400px;
 width: 500px;
-background-color: white;
+background-color: blue;
 }
 aside { 
   background-color: yellow;
+}
+html {
+  background-color: white;
+}
