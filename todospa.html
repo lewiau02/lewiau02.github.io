@@ -24,6 +24,14 @@ Enter Task <input type="text" name="Enter Task" value="changeme" size="40">
     <option>Medium</option>
     <option>low</option>
 </select>
-<button>New</button>
+<button onclick="quizFunc();">New</button>
+<script type="text/javascript">
+         quizFunc = function() {
+           var myli
+           li = document.createElement("li");
+           myli.innerhtml = "Hi"
+           myli.className = "myliclass";
+           myli.style.color = "blue";
+         }
 </footer>
 </html>
