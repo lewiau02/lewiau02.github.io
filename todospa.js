@@ -10,6 +10,6 @@ quizFunc = function() {
            newIn.type = "checkbox"
            newli.appendChild(mynewli);
            ul.appendChild(newli);
-           document.header.appendChild(ul);
+           document.body.appendChild(ul);
          }
 
