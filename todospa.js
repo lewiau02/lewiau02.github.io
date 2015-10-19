@@ -11,13 +11,5 @@ quizFunc = function() {
            newli.appendChild(mynewli);
            ul.appendChild(newli);
            document.header.appendChild(ul);
-           li1.appendChild(myli1);
-      
-           li2.appendChild(myli2);
-           p.appendChild(myp);
-           h1.appendChild(myh1);
-      document.body.appendChild(h1);
-      document.body.appendChild(p);
-      document.body.appendChild(ol);
          }
 
