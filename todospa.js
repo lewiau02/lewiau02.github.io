@@ -1,4 +1,3 @@
-<script type="text/javascript">
 quizFunc = function() {
            newli = document.createElement("li");
            newin = document.createElement("input");
@@ -9,4 +8,4 @@ quizFunc = function() {
            boxChecked= function()
            this.parentNode.className = "done"
          }
-</script>
+
