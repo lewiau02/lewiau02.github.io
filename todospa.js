@@ -1,4 +1,3 @@
-<script type="text/javascript">
 quizFunc = function() {
            newli = document.createElement("li");
            newin = document.createElement("input");
