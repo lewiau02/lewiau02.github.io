@@ -9,8 +9,8 @@ body {
          position: relative;
          background-color: blue;
 }
-footer { 
-  background-color: yellow;
+header { 
+  background-color: gray;
 }
 html {
   background-color: white;
