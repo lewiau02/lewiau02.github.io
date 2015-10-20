@@ -18,10 +18,13 @@ html {
 }
 .high {
          color: red;
+         font-size: 24pt;
 }
 .medium {
          color: yellow;
+         font-size: 20pt;
 }
 .low {
          color: orange;
+         font-size: 16pt;
 }
