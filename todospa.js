@@ -6,7 +6,8 @@ quizFunc = function() {
            myText = document.querySelector("#text")
            mynewli = document.createTextNode(myText.value)
            newli.className = myPriority.value
-           newli.type = "checkbox"
+           newin.type = "checkbox"
+           newli.appendChild(newin);
            newli.appendChild(mynewli);
            myTasklist.appendChild(newli);
 }
