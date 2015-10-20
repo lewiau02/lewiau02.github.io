@@ -8,7 +8,8 @@ quizFunc = function() {
            newli.className = myPriority.value
            newin.type = "checkbox"
            newli.appendChild(mynewli);
-           myTasklist.appendChild(newli);
+           newin.appendChild(newli);
+           myTasklist.appendChild(newin);
 }
            boxChecked= function() {
            this.parentNode.className = "done"
