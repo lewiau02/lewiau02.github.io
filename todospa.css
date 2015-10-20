@@ -16,3 +16,12 @@ footer {
 html {
   background-color: white;
 }
+.high {
+         color: red;
+}
+.medium {
+         color: yellow;
+}
+.low {
+         color: orange;
+}
