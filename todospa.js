@@ -11,7 +11,7 @@ quizFunc = function() {
            newli.appendChild(mynewli);
            myTasklist.appendChild(newli);
            onclick = "boxChecked"
-           localSave(http://lewiau02.github.io/todospa.html string)
+           localSave(tasklist)
 }
            boxChecked= function() {
            if (this.checked) {
@@ -19,7 +19,6 @@ quizFunc = function() {
            } else {
            this.parentNode.classList.remove("done")
            }
-           localSave(http://lewiau02.github.io/todospa.html string)
-           restoreList(http://lewiau02.github.io/todospa.html string,boxChecked)
+           restoreList(tasklist)
 }
          
