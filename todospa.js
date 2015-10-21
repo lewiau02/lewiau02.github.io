@@ -13,6 +13,10 @@ quizFunc = function() {
            onclick = "boxChecked"
 }
            boxChecked= function() {
-           this.parentNode.className = "done"
+           if (this.checked) {
+           this.parentNode.classList.add("done")
+           } else {
+           this.parentNode.classList.remove("done")
+           }
          }
 
