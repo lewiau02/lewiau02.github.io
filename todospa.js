@@ -10,6 +10,7 @@ quizFunc = function() {
            newli.appendChild(newin);
            newli.appendChild(mynewli);
            myTasklist.appendChild(newli);
+           onclick = "boxChecked"
 }
            boxChecked= function() {
            this.parentNode.className = "done"
