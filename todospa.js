@@ -11,7 +11,7 @@ quizFunc = function() {
            newli.appendChild(mynewli);
            myTasklist.appendChild(newli);
            onclick = "boxChecked"
-           localSave(tasklist)
+           localSave(myTasklist)
 }
            boxChecked= function() {
            if (this.checked) {
@@ -19,7 +19,7 @@ quizFunc = function() {
            } else {
            this.parentNode.classList.remove("done")
            }
-           localSave(tasklist)
-           restoreList(tasklist)
+           localSave(myTasklist)
+           restoreList(myTasklist)
 }
          
