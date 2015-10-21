@@ -20,6 +20,5 @@ quizFunc = function() {
            this.parentNode.classList.remove("done")
            }
            localSave("myTasklist")
-           restoreList("myTasklist")
 }
          
