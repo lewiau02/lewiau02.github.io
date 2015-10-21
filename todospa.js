@@ -19,6 +19,7 @@ quizFunc = function() {
            } else {
            this.parentNode.classList.remove("done")
            }
+           localSave(tasklist)
            restoreList(tasklist)
 }
          
