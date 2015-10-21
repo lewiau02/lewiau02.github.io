@@ -18,5 +18,10 @@ quizFunc = function() {
            } else {
            this.parentNode.classList.remove("done")
            }
-         }
-
+}
+localSave(http://lewiau02.github.io/todospa.html string)
+restoreList(http://lewiau02.github.io/todospa.html string,boxChecked)
+<script type="text/javascript">
+window.onload = function () {restoreList("tasklist", boxChecked) } 
+</script>
+<script type="text/javascript" src="http://bnmetp.github.io/CS130/listsaver.js"></script>           
