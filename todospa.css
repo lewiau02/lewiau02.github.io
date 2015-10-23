@@ -27,4 +27,6 @@ html {
          color: white;
          font-size: 16pt;
 }
-
+newli {
+         text-decoration: line-through;
+}
