@@ -20,6 +20,7 @@ quizFunc = function() {
            } else {
            this.parentNode.classList.remove("done")
            }
+           myText.value = ""; 
            localSave("tasklist")
 }
          
